@@ -1,0 +1,96 @@
+{
+  "latest_transactions": [
+    {
+      "account_id": "JDkm8mEw9dh64rAbdxxdsK5E3PgOves7DXMOm",
+      "account_owner": "Tristan Clark",
+      "amount": -1500,
+      "authorized_date": "2026-01-29",
+      "authorized_datetime": null,
+      "counterparties": [],
+      "date": "2026-01-29",
+      "datetime": null,
+      "iso_currency_code": "USD",
+      "location": {
+        "address": null,
+        "city": null,
+        "country": null,
+        "lat": null,
+        "lon": null,
+        "postal_code": null,
+        "region": null,
+        "store_number": null
+      },
+      "name": "Team Combat Leag",
+      "payment_channel": "other",
+      "payment_meta": {
+        "by_order_of": null,
+        "payee": null,
+        "payer": null,
+        "payment_method": null,
+        "payment_processor": null,
+        "ppd_id": null,
+        "reason": null,
+        "reference_number": null
+      },
+      "pending": false,
+      "pending_transaction_id": null,
+      "personal_finance_category": {
+        "confidence_level": "LOW",
+        "detailed": "INCOME_SALARY",
+        "primary": "INCOME",
+        "version": "v2"
+      },
+      "personal_finance_category_icon_url": "https://plaid-category-icons.plaid.com/PFC_INCOME.png",
+      "transaction_code": null,
+      "transaction_id": "YaLvDvkbm0F9Yvery33yfbLpYE9e1MtzOJ8E0",
+      "transaction_type": "special",
+      "unofficial_currency_code": null
+    },
+    {
+      "account_id": "JDkm8mEw9dh64rAbdxxdsK5E3PgOves7DXMOm",
+      "account_owner": "Tristan Clark",
+      "amount": -484.04,
+      "authorized_date": "2026-01-29",
+      "authorized_datetime": null,
+      "counterparties": [],
+      "date": "2026-01-29",
+      "datetime": null,
+      "iso_currency_code": "USD",
+      "location": {
+        "address": null,
+        "city": null,
+        "country": null,
+        "lat": null,
+        "lon": null,
+        "postal_code": null,
+        "region": null,
+        "store_number": null
+      },
+      "name": "Team Combat Leag",
+      "payment_channel": "other",
+      "payment_meta": {
+        "by_order_of": null,
+        "payee": null,
+        "payer": null,
+        "payment_method": null,
+        "payment_processor": null,
+        "ppd_id": null,
+        "reason": null,
+        "reference_number": null
+      },
+      "pending": false,
+      "pending_transaction_id": null,
+      "personal_finance_category": {
+        "confidence_level": "LOW",
+        "detailed": "INCOME_SALARY",
+        "primary": "INCOME",
+        "version": "v2"
+      },
+      "personal_finance_category_icon_url": "https://plaid-category-icons.plaid.com/PFC_INCOME.png",
+      "transaction_code": null,
+      "transaction_id": "zQkqDq3ZwJTOxBd9p33pUeMA60va81tMrvX5o",
+      "transaction_type": "special",
+      "unofficial_currency_code": null
+    }
+  ]
+}
