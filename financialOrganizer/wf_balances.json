@@ -1,0 +1,71 @@
+{
+  "accounts": [
+    {
+      "account_id": "0MxaDo51odSDKmkZrxgkheX5rBrY6eh54NgLd",
+      "balances": {
+        "available": 2504,
+        "current": 2340.94,
+        "iso_currency_code": "USD",
+        "limit": 4900,
+        "unofficial_currency_code": null
+      },
+      "mask": "5292",
+      "name": "PLATINUM CARD ...5292",
+      "official_name": "PLATINUM CARD ...5292",
+      "subtype": "credit card",
+      "type": "credit"
+    },
+    {
+      "account_id": "vr7aVK58KASqR165mxX6TBw8xNxamBC7q3oRX",
+      "balances": {
+        "available": 1645.55,
+        "current": 1645.55,
+        "iso_currency_code": "USD",
+        "limit": null,
+        "unofficial_currency_code": null
+      },
+      "mask": "8098",
+      "name": "WAY2SAVE�� SAVINGS ...8098",
+      "official_name": "WAY2SAVE�� SAVINGS ...8098",
+      "subtype": "savings",
+      "type": "depository"
+    },
+    {
+      "account_id": "AMDaNdB1drSDPmv0RVbvhNVxk6kQnNtBAqdo0",
+      "balances": {
+        "available": 3824.78,
+        "current": 3824.78,
+        "iso_currency_code": "USD",
+        "limit": null,
+        "unofficial_currency_code": null
+      },
+      "mask": "9178",
+      "name": "EVERYDAY CHECKING ...9178",
+      "official_name": "EVERYDAY CHECKING ...9178",
+      "subtype": "checking",
+      "type": "depository"
+    }
+  ],
+  "item": {
+    "available_products": [
+      "balance"
+    ],
+    "billed_products": [
+      "transactions"
+    ],
+    "consent_expiration_time": null,
+    "consented_products": [
+      "transactions"
+    ],
+    "error": null,
+    "institution_id": "ins_127991",
+    "institution_name": "Wells Fargo",
+    "item_id": "Y0b1p5xn5ZTDR3byXa8bhoVYn6X7rnHQ90rmk",
+    "products": [
+      "transactions"
+    ],
+    "update_type": "background",
+    "webhook": ""
+  },
+  "request_id": "WfKLCpOvPs7FV1v"
+}
